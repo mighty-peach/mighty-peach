@@ -3,7 +3,7 @@
 My name is Vladimir and I am developer in Kontur company.
 I like doing interfaces and ui-controls, open-source projects, functional paradigm.
 I love 3d-art and game programming for fun.
-I am currently learn math (culculus), CS.
+Currently I learn math (culculus), CS.
 
 You can ask me about frontend stuff, accessability and maybe 3d art things.
 
