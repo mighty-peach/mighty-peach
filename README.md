@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vladimir and I am developer at Kontur.
+My name is Vladimir and I am developer at Amondo.
 I like interfaces and ui-controls, open-source projects and functional paradigm.
 I love 3d-art and game programming for fun.
 Currently I learn math (calculus), CS.
